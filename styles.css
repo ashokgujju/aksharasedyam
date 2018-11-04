@@ -14,7 +14,11 @@
       padding: 1rem;
     }
 
-    .container div{
+    .title-heading {
+      font-size: 32px;
+    }
+
+    .container div {
       line-height: 1.5;
       font-size: 18px;
     }
